@@ -1,0 +1,14 @@
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\Models.dll.config
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\Models.dll
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\Models.pdb
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\EntityFramework.dll
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\PagedList.dll
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\PagedList.Mvc.dll
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\EntityFramework.xml
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\PagedList.xml
+D:\Data\Visual\Test\OnlineShop\Models\bin\Debug\PagedList.Mvc.xml
+D:\Data\Visual\Test\OnlineShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Data\Visual\Test\OnlineShop\Models\obj\Debug\Models.dll
+D:\Data\Visual\Test\OnlineShop\Models\obj\Debug\Models.pdb
